@@ -3,7 +3,7 @@
 
 ## Overview
 
-This will be a rewrite of my Minimalistic Ehtereum Block Explorer. The backend will be using Node.js/Express and the front-end will use React.
+This will be a rewrite of my Minimalistic Ehtereum Block Explorer. The backend will be using Node.js/Express with a PSQL database and the front-end will use React.
 
 ## Features
 
